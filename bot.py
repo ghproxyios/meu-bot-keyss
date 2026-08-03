@@ -24,7 +24,7 @@ from key_system import (
 )
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-ADMIN_IDS = [8724162010]  # ← COLOQUE SEU ID AQUI
+ADMIN_IDS = [5539193237]  # ← COLOQUE SEU ID AQUI
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
